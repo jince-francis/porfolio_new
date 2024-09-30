@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#name{
+    font-size: 100px;
+    font-weight: 600;
+}
+#home,#deepfake,#service{
+    background: linear-gradient(rgb(28, 37, 55),rgb(49, 23, 78),rgb(52, 21, 21));
+}
+#underline{
+    height: 4px;
+}
+
+a{
+    text-decoration: none;
+}
